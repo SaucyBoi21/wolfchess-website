@@ -1,3 +1,3 @@
 <template>
-  <b-avatar variant="primary"></b-avatar>
+  <h1>Hello World</h1>
 </template>
